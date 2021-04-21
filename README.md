@@ -1,0 +1,2 @@
+# GyureAndi_Vizsga
+Gyure_Andrea_vizsgamunka
